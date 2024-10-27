@@ -178,7 +178,7 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 170. [Zillow](#zillow)
 171. [Zoho](#zoho)
 172. [Zomato](#zomato)
-173. [Zoom](#zoom)
+173. [DONE____Zoom](#zoom)
 174. [Zopsmart](#zopsmart)
 175. [eBay](#ebay)
 176. [edabit](#edabit)
