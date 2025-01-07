@@ -890,14 +890,14 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 [[back to top]](#company-index)
 |   Occurence | Problem                                                                   | Difficulty   | Solution                                                                                                              |
 |------------:|:--------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
-|           1 | [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_623.java) |
+|           1 | [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | Medium (done)      | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_623.java) |
 
 ## GoDaddy
 
 [[back to top]](#company-index)
 |   Occurence | Problem                                                                         | Difficulty   | Solution                                                                                                              |
 |------------:|:--------------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
-|           2 | [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/) | Medium       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_419.java) |
+|           2 | [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/) | Medium(done)       | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_419.java) |
 |           2 | [LRU Cache](https://leetcode.com/problems/lru-cache/)                           | Hard         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_146.java) |
 
 ## Goldman Sachs
